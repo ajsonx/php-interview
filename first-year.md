@@ -127,7 +127,7 @@
 * 所有叶子节点位于同一层
 * 关键字（值）=指针数-1
 
-![img](https://img-blog.csdn.net/20180305203757434?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMDg3MDUxOA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+[img](https://img-blog.csdn.net/20180305203757434?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMDg3MDUxOA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 
 
@@ -142,7 +142,7 @@
 
 
 
-![img](https://img-blog.csdn.net/20180305204104694?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMDg3MDUxOA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+[img](https://img-blog.csdn.net/20180305204104694?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMDg3MDUxOA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 B树在提高了IO性能的同时并没有解决元素遍历效率低下的问题，正是为了解决这个问题，B+树应用而生。B+树只需要去遍历叶子节点就可以实现整棵树的遍历。而且在数据库中基于范围的查询是非常频繁的，而B树不支持这样的操作或者说效率太低。
 
@@ -301,8 +301,6 @@ Todo，不常考，了解DP思想即可（自底向上的解决问题）
 ## 设置防盗链
 
 * valid_referers
-
-![image-20200223165222085](/Users/ajsonx/Library/Application Support/typora-user-images/image-20200223165222085.png)
 
 ## 正向代理和反向代理
 
